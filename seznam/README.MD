@@ -1,14 +1,13 @@
 # This File is written in Czech language
 
 # Cil
-Popis a cil tohoto projektu najdete v TASK.DM.
+Popis a cil tohoto projektu najdete v TASK.MD.
 
 # Spusteni
-- Flutter SDK 3.22.2 (Stazeni s ofic websitu nebo pouzit FVM)
-- flutter pub get
-- V projektu se musi generovat hive souber 'comment_model.g.dart',
-proto potrebujete pro tvorbu soubora provolat 
-flutter pub run build_runner build
+- Flutter SDK 3.22.2 (Stazeni z oficialniho websitu nebo pouzit FVM)
+- Flutter pub get
+- V projektu se musi generovat hive soubor 'comment_model.g.dart',
+proto potrebujete pro tvorbu provolat flutter pub run build_runner build
 
 
 # Postup vypracovani
@@ -21,7 +20,7 @@ flutter pub run build_runner build
 6. Zalozeni repositories a provideru
 7. Tvorba jednotlivych screenu
 
-# Postup vypracovani
+# Cas vypracovani
 Na projektu jsem stravil cca 6.5 hodin.
 
 ## O projektu
